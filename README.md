@@ -21,9 +21,6 @@ A JavaFX-based desktop application designed for managing inventory, including pa
 - **Architecture:** MVC
 - **IDE Used:** IntelliJ IDEA / Eclipse
 
-## 📷 Screenshots
-
-> Add screenshots of the login page, inventory screen, or add/edit dialogs here if available.
 
 ## 🚀 Getting Started
 
