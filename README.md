@@ -29,7 +29,7 @@ A JavaFX-based desktop application designed for managing inventory, including pa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Inventory-Management-System.git
+   git clone https://github.com/sppardesi75/Inventory-Management-System.git
    ```
 2. Open the project in your preferred Java IDE (e.g., IntelliJ, Eclipse).
 3. Ensure JavaFX is correctly configured.
